@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/interesting-books/static/css/main.fcbd523d.chunk.css",
+    "main.js": "/interesting-books/static/js/main.0e235021.chunk.js",
+    "main.js.map": "/interesting-books/static/js/main.0e235021.chunk.js.map",
+    "runtime-main.js": "/interesting-books/static/js/runtime-main.f7fb9c89.js",
+    "runtime-main.js.map": "/interesting-books/static/js/runtime-main.f7fb9c89.js.map",
+    "static/js/2.2d2238d4.chunk.js": "/interesting-books/static/js/2.2d2238d4.chunk.js",
+    "static/js/2.2d2238d4.chunk.js.map": "/interesting-books/static/js/2.2d2238d4.chunk.js.map",
+    "static/js/3.79e72068.chunk.js": "/interesting-books/static/js/3.79e72068.chunk.js",
+    "static/js/3.79e72068.chunk.js.map": "/interesting-books/static/js/3.79e72068.chunk.js.map",
+    "index.html": "/interesting-books/index.html",
+    "static/css/main.fcbd523d.chunk.css.map": "/interesting-books/static/css/main.fcbd523d.chunk.css.map",
+    "static/js/2.2d2238d4.chunk.js.LICENSE.txt": "/interesting-books/static/js/2.2d2238d4.chunk.js.LICENSE.txt",
+    "static/media/img_11.69547cf4.png": "/interesting-books/static/media/img_11.69547cf4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7fb9c89.js",
+    "static/js/2.2d2238d4.chunk.js",
+    "static/css/main.fcbd523d.chunk.css",
+    "static/js/main.0e235021.chunk.js"
+  ]
+}
